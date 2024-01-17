@@ -54,15 +54,25 @@ Obtendremos algo similar a esto por el lado del cliente:
 
 Introduce tu nombre: Luis
 Que extension tienen los documentos de Microsoft Word?
+
 .java
+
 Como se denomina el ordenador donde se encuentran las paginas web?
+
 servidor
+
 Que es Google?
+
 buscador
+
 En binario como se escribe 10?
+
 110001
+
 La IP 192.168.25.25 es publica o privada?
+
 privada
+
 Puntuacion de Luis: 3
 
 
