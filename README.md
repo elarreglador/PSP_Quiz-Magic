@@ -60,7 +60,7 @@ servidor
 Que es Google?
 buscador
 En binario como se escribe 10?
-10001
+110001
 La IP 192.168.25.25 es publica o privada?
 privada
 Puntuacion de Luis: 3
